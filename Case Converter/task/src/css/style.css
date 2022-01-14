@@ -1,0 +1,26 @@
+
+.container{
+    display: grid;
+}
+
+.title{
+    font-size: 32px;
+}
+
+textarea{
+    width: 800px;
+    height: 400px;
+}
+
+.buttons{
+    display: flex;
+}
+
+button {
+    height: 50px;
+    width: 120px;
+    margin-right: 15px;
+    color: black;
+    font-size: 15px;
+    background-color: coral;
+}
